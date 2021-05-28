@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sholu
+- 👋 Hi, I’m Sloka
 - 👀 I’m interested in Cloud and DevOps Automation
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on Plugin Development for DevOps Platforms
